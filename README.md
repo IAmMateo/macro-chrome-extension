@@ -1,6 +1,9 @@
 # Macro
 Shortcuts for the web.
 
+## We Support
+![WE SUPPORT](https://github.com/UseMacro/usemacro.github.io/tree/master/assets/support.png)
+
 ## Plugin System
 Macro aims to provide an open-source plugin system to crowdsource custom shortcuts for all popular websites. We've designed Macro's architecture to be as decoupled as possible, making it simple for any developer to start a new plugin, integrate it with Macro, and get it into user's hands.
 
