@@ -1,0 +1,88 @@
+{
+    "name": "GitHub Shortcuts",
+    "sections": [
+        {
+            "name": "Site wide shortcuts",
+            "shortcuts": [
+                {
+                    "name": "Focus search bar",
+                    "keys": [{"default": ["s"]}]
+                },
+                {
+                    "name": "Go to notifications",
+                    "keys": [{"default": ["g+n"]}]
+                },
+                {
+                    "name": "Go to dashboard",
+                    "keys": [{"default": ["g+d"]}]
+                },
+                {
+                    "name": "Help",
+                    "keys": [{"default": ["?"]}]
+                },
+                {
+                    "name": "Toggle selection",
+                    "keys": [{"default": ["x"]}]
+                },
+                {
+                    "name": "Open selection",
+                    "keys": [{"default": ["enter", "o"]}]
+                }
+            ]
+        },
+        {
+            "name": "Repositories",
+            "shortcuts": [
+                {
+                    "name": "Go to code",
+                    "keys": [{"default": ["g+c"]}]
+                },
+                {
+                    "name": "Go to issues",
+                    "keys": [{"default": ["g+i"]}]
+                },
+                {
+                    "name": "Go to pull requests",
+                    "keys": [{"default": ["g+p"]}]
+                },
+                {
+                    "name": "Go to projects",
+                    "keys": [{"default": ["g+b"]}]
+                },
+                {
+                    "name": "Go to wiki",
+                    "keys": [{"default": ["g+w"]}]
+                }
+            ]
+        },
+        {
+            "name": "Source code browsing",
+            "shortcuts": [
+                {
+                    "name": "Activates the file finder",
+                    "keys": [{"default": ["t"]}]
+                },
+                {
+                    "name": "Jump to line",
+                    "keys": [{"default": ["l"]}]
+                },
+                {
+                    "name": "Switch branch/tag",
+                    "keys": [{"default": ["w"]}]
+                },
+                {
+                    "name": "Expand url to its canonical form",
+                    "keys": [{"default": ["y"]}]
+                },
+                {
+                    "name": "Show'hide all inline notes",
+                    "keys": [{"default": ["i"]}]
+                },
+                {
+                    "name": "Open blame",
+                    "keys": [{"default": ["b"]}]
+                }
+            ]
+        }
+    ]
+}

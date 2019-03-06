@@ -1,0 +1,144 @@
+{
+    "name": "YouTube Shortcuts",
+    "sections": [
+        {
+            "name": "Global",
+            "shortcuts": [
+                {
+                    "name": "Previous video",
+                    "keys": [{"default": ["shift+p"]}]
+                },
+                {
+                    "name": "Next video",
+                    "keys": [{"default": ["shift+n"]}]
+                },
+                {
+                    "name": "Rewind 10 seconds",
+                    "keys": [{"default": ["j"]}]
+                },
+                {
+                    "name": "Fast forward 10 seconds",
+                    "keys": [{"default": ["l"]}]
+                },
+                {
+                    "name": "Toggle mute",
+                    "keys": [{"default": ["m"]}]
+                },
+                {
+                    "name": "Toggle play/pause",
+                    "keys": [{"default": ["k"]}]
+                },
+                {
+                    "name": "Seek backwards by smallest amount possible, when video is paused",
+                    "keys": [{"default": [","]}]
+                },
+                {
+                    "name": "Seek forwards by smallest amount possible, when video is paused",
+                    "keys": [{"default": ["."]}]
+                },
+                {
+                    "name": "Decrease playback rate",
+                    "keys": [{"default": ["shift+,"]}]
+                },
+                {
+                    "name": "Increase playback rate",
+                    "keys": [{"default": ["shift+."]}]
+                },
+                {
+                    "name": "Toggle full screen",
+                    "keys": [{"default": ["f"]}]
+                }
+            ]
+        },
+        {
+            "name": "When focused on player",
+            "shortcuts": [
+                {
+                    "name": "Seek backwards by 5 seconds",
+                    "keys": [{"default": ["left"]}]
+                },
+                {
+                    "name": "Seek forwards by 5 seconds",
+                    "keys": [{"default": ["right"]}]
+                },
+                {
+                    "name": "Increase volume by 5%",
+                    "keys": [{"default": ["up"]}]
+                },
+                {
+                    "name": "Decrease volume by 5%",
+                    "keys": [{"default": ["down"]}]
+                },
+                {
+                    "name": "Close the current dialog or similar dialogs (share panel)",
+                    "keys": [{"default": ["esc"]}]
+                },
+                {
+                    "name": "Seek to the beginning of video",
+                    "keys": [{"default": ["home"]}]
+                },
+                {
+                    "name": "Seek to the end of video",
+                    "keys": [{"default": ["end"]}]
+                },
+                {
+                    "name": "If the video supports captions, toggle captions on/off",
+                    "keys": [{"default": ["c"]}]
+                },
+                {
+                    "name": "Rotate through different text opacity levels",
+                    "keys": [{"default": ["o"]}]
+                },
+                {
+                    "name": "Rotate through different window opacity levels",
+                    "keys": [{"default": ["w"]}]
+                },
+                {
+                    "name": "Rotate through different window opacity levels",
+                    "keys": [{"default": ["w"]}]
+                },
+                {
+                    "name": "Rotate through font sizes (increasing)",
+                    "keys": [{"default": ["shift+="]}]
+                },
+                {
+                    "name": "Rotate through font sizes (decreasing)",
+                    "keys": [{"default": ["-"]}]
+                },
+                {
+                    "name": "Seek to specific point in video (7 advances to 70% of duration)",
+                    "keys": [{"default": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}]
+                }
+            ]
+        },
+        {
+            "name": "When focused on spherical video player",
+            "shortcuts": [
+                {
+                    "name": "Pan up",
+                    "keys": [{"default": ["w"]}]
+                },
+                {
+                    "name": "Pan left",
+                    "keys": [{"default": ["a"]}]
+                },
+                {
+                    "name": "Pan down",
+                    "keys": [{"default": ["s"]}]
+                },
+                {
+                    "name": "Pan right",
+                    "keys": [{"default": ["d"]}]
+                },
+                {
+                    "name": "Zoom in",
+                    "keys": [{"default": ["=+]"]}]
+                },
+                {
+                    "name": "Zoom out",
+                    "keys": [{"default": ["-+["]}]
+                }
+            ]
+        }
+    ]
+}

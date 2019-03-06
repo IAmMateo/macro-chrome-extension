@@ -5,7 +5,7 @@ import * as A from './analytics.js';
 let Plugins = P.default;
 let tracker = A.default;
 
-const URL_PATH = 'https://raw.githubusercontent.com/UseMacro/macro-data/master/configs/'
+const URL_PATH = 'https://raw.githubusercontent.com/IAmMateo/macro-chrome-extension/macro-data/configs/'
 const FILE_EXT = '.json'
 
 function getCurrentTab(callback) {
